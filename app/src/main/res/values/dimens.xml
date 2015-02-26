@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigationDrawerWidth">302dp</dimen>
+    <dimen name="navMarginTop">00dp</dimen>
+    <dimen name="toolbarPaddingTop">00dp</dimen>
+</resources>

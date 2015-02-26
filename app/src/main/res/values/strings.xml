@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cybonito 2015</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="coding" >
+    <item>
+
+ It is an online coding event on the lines of Google Code Jam.
+The Event constitutes of two rounds, namely:
+1.	Qualification Round:
+2.	On site Final round:
+Website :  www.srmcodejam.co.in
+Qualification round starts on Friday 20th Feb at 5:30 pm.
+    </item>
+
+    <item>
+
+With the Cybonito 2k15 comes again the Blind Coding with its fourth version as Blind
+Coding V 4.0. This time it is even more bigger and better with a whole new bunch of phases.
+The tech scholars will have to pass through the various phases to reach the final phase and
+compete there with the one of the finest geeks.
+The various phases will be as follows:
+
+	SCREENING QUIZ
+	ERROR SEARCH
+	BLIND CODING
+
+
+    </item>
+
+    </string-array>
+
+
+
+
+
+    <string-array name="fun">
+
+        <item>Details will be uploaded soon.</item>
+        <item>Details will be uploaded soon.</item>
+        <item>Slashcounts , strike lines and announce a full house.
+Cybonito welcomes you to the all time fun event – TAMBOLA.
+</item>
+        <item>
+To participate in this event a team should consist of 3 members only.
+This event will consist of 3 rounds.
+
+•	Round 1
+Two teams will complete with each other. They will have 1.5 minutes each to enact the movie which
+is given to them randomly. One member will act and other will have to guess. The team which succeeds
+first will qualify for round 3.The other one will be eliminated.
+
+•	Round 2
+One team member will be given an audio. He or she will have to guess the movie related to audio and
+enact it. The other team members will have to guess . They will be given 2 minutes for this round .
+Top 10 teams having minimum time taken will qualify for the round 3(the final round).
+
+•	Round 3
+This is the final round.One of the team members will be given a movie which they can only draw
+on board and others have to guess the movie. Total time given in this is 2 minutes. The team which takes minimum
+time will be crowned the winner.
+</item>
+
+        <item>Details will be uploaded soon.</item>
+        <item>Details will be uploaded soon.</item>
+        <item>Details will be uploaded soon.</item>
+<item>
+Type Pixit is a fun event played in 2 beats.
+The first beat challenges your peerless speed of typing and if you resonate with beat , the 2nd beat veils a
+note for you to play and prizes.
+
+</item>
+    </string-array>
+
+
+
+    <string-array name="toolsandhardware">
+
+        <item>1)Venue :: M.Tech Lab  2)Time:: 10.30-12.00 on 2nd day.</item>
+        <item>1)Venue :: Lab3  2)Time:: 2-3.30 on 1st day.</item>
+        <item>Details will be updated soon.</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="game">
+
+        <item>Games like: 1)	Counter Strike 1.6 2)	Fifa  3)	NFS </item>
+        <item>Games like: 1)	Mario 1.6 2)	Contra  3)	Pacman   4)Tanks </item>
+
+    </string-array>
+
+    <string-array name="visuals">
+
+        <item>
+
+Time limit of clip : 3-‐5 minutes
+•	1 to 4 members per team.
+•	Original, fresh ideas will be given more preference and will fetch you more marks
+•	Teams should make sure that the feelings of the characters are conveyed through the dialogues too and not music alone
+•	Innovation in story-­‐telling approach, filming or in any aspect of film-­‐making would be welcome
+•	The teams to bring along the final video clip along with the RAW files in a pendrive.
+•	The participants should expect cross-questioning
+•	Participants are allowed to use any software they find convenient
+•	If the footage used is not original, proper credits to the owner/source should be given.
+•	The teams have to make the movie on any 1 of the following topics:
+	Hope : picture abhi baaki hai mere dost
+	Mother: mere paas maa hai
+	Women Safety: basanti in kutton ke saamne mat naachna
+
+        </item>
+        <item>
+Guidelines:   Profile the campus!
+This competition will take you on a chase across the campus of SRM University. Participants are required to recreate the
+exact copy of a set of images provided to them on the spot. The images will be from within the campus.
+Find the spots, get there quickly and match the pictures given to you. The exactness is measured by the following aspects
+of the image:
+•	Angle of click
+•	Framing
+•	Focus
+•	Exposure
+Find the exact angle, exact frame and exact magnification! Test your photography and scavenging skills!
+•	On the spot event
+•	Time limit: 3 hours
+•	Only 1 participant per team.
+</item>
+
+
+    </string-array>
+
+
+    <string-array name="quiz">
+
+        <item>
+
+            The Event contain two rounds.
+            •	Round 1
+            Any random word or the name of a thing will be given to the contestant )in pair of two) .
+            They had to complete with another contestant and guess the word more earlier than other.
+            Remember you can’t say anything you have to use the power of drawing to make your companion
+            understand what you are trying to say. The team which guesses the word earlier qualifies for next round.
+            •	Round 2
+            A couple of pictures will be shown to the qualifying team continuously .
+            After the gap of 5 sec, they have to write the name of the things shown in the picture in
+            sequence they are shown.
+            Then teams with less number of marks are eliminated and the no. of pictures are increased
+            and the game is played again.
+            Till we get out top three winners.
+
+        </item>
+
+
+ <item>An opportunity to lay your hands on some good amount of cash by just-contesting  the brilliance of your observation skills.
+All you have to do is, simply  identify the logo from the pool of unique logo types. Shine for 2 bouts and enjoy the perks.
+</item>
+        <item>
+After a great success in Cybonito 2014, we are back with the next version of CyboTech.
+CyboTech v2 would comprise of 3 rounds. Each round would comprise of questions, a tech savvy would like to solve and answer.
+Each round would help us to find the best out of the best TechGurus attending the Cybonito this year.
+
+•	Round 1
+The first round is an online quiz. It will be conducted using a software in which the contestants will have to solve 40 questions within a time span of 15 minutes.
+The quiz will consist of:
+20 questions from the geek world
+20 questions from the code world
+The top ten contestants will qualify for the next round.
+
+•	Round 2
+The next round is a combination of a crossword puzzle and multiple choice questions aimed at
+testing the mental abilities of the contestants. Some MCQ based questions will be flashed on the
+screen for a short duration of time and simultaneously the contestants will have to solve some
+questions with the help of audio and visual clues. The top four contestants will move on for the final round.
+
+•	Round 3
+The third and final round is a programming based round. The contestants will be given some
+problems in either C, C++ or Java as the contestants want. There will be three questions
+one each for coding, debugging and finding the output. The first person to solve the three
+problems will be awarded the winner!
+</item>
+
+    </string-array>
+
+    <string name="department">Computer Science The Department of Computer Science is renowned
+        for cutting edge research and for imparting state of the art world class education.
+        We attract some of the excellent students and faculty. The Department of Computer Science imparts
+        international level training and research. The Department provides high standard computing
+        facilities to the students. It also promotes active industry-department affiliation by
+        finding common areas of interest and taking part in research projects and consultancy services.
+        Our research exists in the areas of systems, software, networking, databases, security,
+        and foundations of computer science, artificial intelligence, robotics, and scientific computing.
+        Besides basic research, interdisciplinary work on applications that stimulate basic research has
+        been undertaken under Department of Computer Science.</string>
+
+    <string name="cybonito">The need for efficient and accurate calculation and automation has over
+        the years resulted in the birth of a new science. What started as a simple calculating device became
+        a phenomenon that changed the face of technology, business and governance.Computer Science has
+        revolutionized our lifestyle.The Computer Science and engineering department of SRM University,
+        NCRCampus brings you a plethora of events ranging from hardcore programming contests, nerve wracking
+        puzzles and games enriching workshops and presentations.</string>
+
+
+
+
+
+
+</resources>

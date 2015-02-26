@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEE"
+    tools:context="com.webbed.rankit.newbie.main.NavigationDrawerFragment">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:background="#019780"
+       android:id="@+id/navTop"
+       android:orientation="horizontal"
+       >
+       <ImageView
+
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:adjustViewBounds="true"
+           android:src="@drawable/header"
+           />
+
+
+       </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+
+        android:layout_marginTop="10dip"
+        android:layout_below="@id/navTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/navigationRecView"
+        >
+    </android.support.v7.widget.RecyclerView>
+
+
+
+
+
+
+</RelativeLayout>
